@@ -5,3 +5,6 @@ my_string = "how are you"
 puts my_num
 puts my_boolean
 puts my_string
+
+print "hello world"
+puts my_num
